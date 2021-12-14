@@ -1,6 +1,9 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr_s:apt\x2dcache\x20search
+SETUVAR _fish_abbr_store:io\x2eelementary\x2eappcenter
+SETUVAR _fish_abbr_u:sudo\x20apt\x2dget\x20update\x20\x26\x26\x20sudo\x20apt\x2dget\x20upgrade
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:005fd7
